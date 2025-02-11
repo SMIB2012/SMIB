@@ -1,6 +1,6 @@
 (async function checkForUpdates() {
     const currentVersion = "1.0";
-    const versionUrl = "https://raw.githubusercontent.com/SMIB2012/SMIB2012.github.io/refs/heads/main/version.json"; 
+    const versionUrl = "https://github.com/SMIB2012/SMIB/raw/main/version.json"; 
 
     try {
         const response = await fetch(versionUrl);
