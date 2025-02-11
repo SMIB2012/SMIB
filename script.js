@@ -57,7 +57,6 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Please Shweta",
     "Pookie please...",
     "Mahjabeennn 🥺",
     "Just think about it!",
